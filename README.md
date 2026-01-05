@@ -15,6 +15,6 @@
   ```toml
   [plugin]
   prepend_previewers = [
-      { name = "*.kra", run = "kra" },
+      { url = "*.kra", run = "kra" },
   ]
   ```
